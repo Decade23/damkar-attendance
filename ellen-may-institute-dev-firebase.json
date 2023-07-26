@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ellen-may-institute-dev",
+  "private_key_id": "b43eef6a5b44abd3d35bc45e84ed0867df2779cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKs1UyYGcfQ/xa\n6bpikaXQ8k7Esu6SwxQ84r2ILNW72FEhS0rLabXmALTgUV5tBh1NYSrK6e2lzlwe\nTb3Q7v1kFVS1zH2Y7IsBgh89yp6TMHYjzjCeo8MRBABla3jrw/IrWcfe9oZajupz\nDCZJcANVF2f/1v3PgRobO/KDrs2qmHAqFeM9iunHB2TJKZXiH0+Ofmg8p2MH753K\njG+emqWvBPkT9YdXsPUP+/g29Av4kbzmVzxagnDy4/yk0BmgD5hYWVBY7aMY121m\nsJBtzQu7kB2mn2Y0/UWlxb5gy42xamcUP5xfO4rf1XA0ooYZYFF2jKoxcvjZxwvF\nVcImbpcvAgMBAAECggEAChjiE+fGuhT18xxe0DwwKRTqvREVoyOGfqQ3DgnNiX5G\n8biMemB4uITGpinmSOOQEIkJV3pOLarnM+GO9v3e/oE7CH0Zi590wyhY4+OzRZ3a\ni+K/0Vy0n7F94eRAClHaeGNx1H5363HKCZQR2XjJFVG95XceRRPt9ZuYnROFr2yM\nFjfqb+GOYtwAY4h1laagUMQl4TidkbIyJYEyrlO7Dssi2oI2RZ6iWqsJ1310q8Xw\nj5yT5mGEwnItiZ/9nWezH7B8Vmavt+ypm5WYSARIjoe8TNOXbUqZ89dr5A47Ihz/\nRRUTC3/Ljw9IgAdVvp16Fc1NpcQ2toHMe2cWqGeyoQKBgQC9ACZU+fixRgSU9WQK\ntx0rnRJTCEbcH8WCP/3ng9F02Sdc9SFhgFiv4VSuyfBY+dVAhmEGxDF9khDLJRO7\n1JiMKMARH1dRv6cidU+D2cv42orjGE63V7Z/bg0V/v5R4AdTAkk7FmIhM8IlxsIM\nP5UGGL6/VAuA+q6kRHgNUNLKvwKBgQC73nCDYeNWJ31MceiTXybzhd4fwVzIProG\nhgfy2tuTG5wqp2Iw51b73q7Fgd8K37CAlY7kIyUNIr8gVtIH+aWzhdjiIp7XyAZN\n07/QxVa76P/s/ZtOm+uLHfIV7NJf6TQ2/zespIFAGGsZGellMf7EnhCyadVVRwCi\ndlGMuct/kQKBgEV6dJzwd7fTYYPQ4cH+pr6Ns1rKxCHPnC/Rjmk5UBqAabQGeQr6\nv5+IWjUXDz/mN7rMq4ZtQTREKeBD9QkrkhiUMmcY+mSW674DGgQCYLVOwZfSK73C\nhNg7gJwBbURz8r1VLc6G3/QMruZsNpGCHiprllOHdeMoRGMmuGtMtvDJAoGAE/RX\nfQz7qZ3+KA19R5H2wCz63+KY6UgIWEMKOxhV9DUdjEZFHq6jxZLse1wFBdGmnLHG\nAKNe/xsus8+k9WXl3MCdvb8xoffD+6Y/HHypbsIb1N9HDL1w8lDW8s85tSg+/Ix1\nLGg4tkchsQPYj4AU8GtdmKW3HByzi44HsWvWmpECgYEAuplKMTk+IJ+LB7PRbaZV\nLTAOSSzFkw8LmecvVi+Ina4yJJIfC7ZrC/r49N85saDQuZmuLejCn+DVWbSaywNJ\nnql0lNF/sdb/KmtL9+7Hsi9KA3O0vnmN1zzcvS0RjkayUeyvtc/bSBJUApYNLThf\npxwUT2gTSFnOns0PwHa+Rsk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2f38g@ellen-may-institute-dev.iam.gserviceaccount.com",
+  "client_id": "113455805064953579777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2f38g%40ellen-may-institute-dev.iam.gserviceaccount.com"
+}

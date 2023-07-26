@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=Ovo|Roboto&display=swap');
+header {
+  position: relative;
+  background-color: black;
+  height: 100%;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .header-tagline {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #273c75;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+/* --------------- BUTTON ------------------ */
+
+.btn-blue {
+  background-color: #82ccdd;
+  border-color: #82ccdd;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+.btn-blue:hover {
+  background-color: #82ccdd;
+  border-color: #82ccdd;
+  color: #FFF;
+}
+
+/* --------------- MENU ------------------ */
+
+.top header {
+  margin-bottom: 8%;
+}
+
+header ul.navbar-nav li a {
+  color: #FFF;
+}
+
+.margin-100 {
+  margin-bottom: 150px;
+}
+
+.section-top h1 {
+  font-family: 'Ovo', serif;
+  font-size: 5vw;
+  color: #FFF;
+}
+
+.section-top {
+  margin-top: 70px;
+  margin-left: 5%;
+  margin-right: 40%;
+}
+
+.section-top .sm-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: #FFF;
+  font-style: italic;
+}
+
+/* --------------- SECTION ABOUT ------------------ */
+
+.section-about {
+  padding-top: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 100px;
+}
+
+.section-about h2 {
+  font-family: 'Ovo', serif;
+  color: #82ccdd;
+  font-size: 54px;
+}
+
+.section-about p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+/* --------------- SECTION TESTI TOP ------------------ */
+
+.section-testi-top {
+  background-color: #373737;
+  padding-top: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 100px;
+}
+
+.section-testi-top p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: #FFF;
+}
+
+.section-testi-top span.name {
+  font-family: 'Ovo', serif;
+  color: #82ccdd;
+  font-size: 25px;
+}
+
+/* --------------- SECTION PRODUCT ------------------ */
+
+.section-product {
+  padding-top: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 100px;
+}
+
+.section-product h2 {
+  font-family: 'Ovo', serif;
+  font-size: 60px;
+  color: #FFF;
+}
+
+.section-product h3 {
+  font-family: 'Ovo', serif;
+  color: #82ccdd;
+  font-size: 32px;
+}
+
+.section-product p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+.section-product .sm-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: #FFF;
+  font-style: italic;
+}
+
+/* --------------- SECTION TESTI ------------------ */
+
+.section-testi .content-testi {
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.15);
+}
+
+.section-testi .content-testi:hover {
+  box-shadow: 0px 0px 55px 0px rgba(0, 0, 0, 0.31);
+}
+
+/* --------------- Background Workshop ------------------ */
+
+.bg-ws {
+  
+  background: linear-gradient( rgba(39,60,117,0.64), rgba(39,60,117,0.64)), url('http://emi.site/theme/emi/img/ws.jpg');
+  background-size: cover;
+  z-index: 0;
+}
+.swiper-container {
+  width: 600px;
+  height: 300px;
+}

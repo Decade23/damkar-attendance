@@ -1,0 +1,44 @@
+/*====================================== HEADING BLOG ===========================================*/
+
+.container .heading-blog {
+    padding: 3.34em 2.4em;
+    background-color: #eee;
+}
+
+.container .heading-blog h1 {
+    color: #c0b283;
+    line-height: 1.2;
+    font-family: 'Ovo', serif;
+}
+
+/*====================================== ARTICLE ===========================================*/
+
+.container article {
+    background: white;
+    padding: 3.34em 2.4em;
+    border-bottom: 1px solid #eee;
+}
+
+.container article .article-header a, .container article .article-header a h2 {
+    font-size: 40px;
+    line-height: 1.2;
+    color: #000000;
+    font-family: 'Ovo', serif;
+}
+
+.container article .article-header a {
+    text-decoration: none;
+}
+
+.container article .article-header .article-meta {
+    color: #c0b283;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 15px;
+    padding-top: 8px
+}
+
+.container article .article-content .content-image-featured {
+    padding-top: 7px;
+    padding-bottom: 23px;
+}
